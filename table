@@ -1,0 +1,24 @@
+<html>
+<head>
+<title> <table>
+</title>
+<body>
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>shruti</td>
+    <td>gunagi</td> 
+    <td>19</td>
+  </tr>
+  <tr>
+    <td>laxmi</td>
+    <td>singh</td> 
+    <td>18</td>
+  </tr>
+</table>
+</body>
+</html>
